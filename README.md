@@ -14,7 +14,7 @@
 - Star this repository
 
 # Add Your Name in Contributers File
-  **Name:- Full Name**
-  **Github Username:-**
+ - **Name:- Full Name**
+ - **Github Username:-**
 
 ### Submit eligible program or pull request be honest

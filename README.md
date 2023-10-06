@@ -12,3 +12,9 @@
 - Add your files Programs/project in specific language folder. if doesn't folder exits so you can create folder. (git add -A), commit (git commit -m "added myself") and push (git push origin new-user)
 - Create a pull request
 - Star this repository
+
+# Add Your Name in Contributers File
+  **Name:- Full Name**
+  **Github Username:-**
+
+### Submit eligible program or pull request be honest
